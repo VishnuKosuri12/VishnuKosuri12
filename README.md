@@ -59,7 +59,12 @@ I love:
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=vishnukosuri12&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnukosuri12&theme=radical&hide_border=true" alt="GitHub streak" />
+ <img
+  height="165"
+  src="https://streak-stats.demolab.com?user=vishnukosuri12&theme=radical&hide_border=true"
+  alt="GitHub streak"
+/>
+
 </p>
 
 <p align="center">
