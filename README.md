@@ -8,9 +8,14 @@
 
 
 <!-- Typing Animation -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1200&color=F97316&center=true&vCenter=true&width=850&lines=I+architect+secure%2C+automated+cloud+platforms+that+never+sleep.;5%2B+years+in+Cloud%2C+DevOps+%26+Application+Engineering.;Kubernetes+(EKS%2FAKS)+·+Terraform+·+Ansible+·+GitOps.;Building+observability-first+platforms+with+Prometheus+%26+Grafana." alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1200&color=F97316&center=true&vCenter=true&width=850&lines=I+architect+secure,+automated+cloud+platforms+that+never+sleep.;5%2B+years+in+Cloud,+DevOps+%26+Application+Engineering.;Kubernetes+(EKS%2FAKS)+%7C+Terraform+%7C+Ansible+%7C+GitOps.;Building+observability-first+platforms+with+Prometheus+%26+Grafana."
+    alt="Typing SVG"
+  />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/vishnukosuri12">
