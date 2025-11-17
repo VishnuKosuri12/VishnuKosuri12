@@ -108,7 +108,7 @@ I love:
 ### 1️⃣ Production-Grade DevSecOps Pipeline
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vishnukosuri12/vishnukosuri12/main/assets/devsecops-pipeline.png" alt="DevSecOps pipeline dashboard" width="700" />
+  <img src="p1.png" alt="DevSecOps pipeline dashboard" width="700" />
 </p>
 
 - End-to-end **DevSecOps** pipeline for containerized apps  
@@ -121,7 +121,7 @@ I love:
 ### 2️⃣ AI Prompt Engineer – ChemTrack on AWS
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vishnukosuri12/vishnukosuri12/main/assets/chemtrack-dashboard.png" alt="ChemTrack inventory dashboard" width="700" />
+  <img src="p2.png" alt="ChemTrack inventory dashboard" width="700" />
 </p>
 
 - **Chem tracking application** powered by **AWS Bedrock + LLMs**  
@@ -134,7 +134,7 @@ I love:
 ### 3️⃣ AWS Ninja – Infrastructure Governance Automation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vishnukosuri12/vishnukosuri12/main/assets/aws-ninja-governance.png" alt="AWS Ninja governance dashboard" width="700" />
+  <img src="p3.png" alt="AWS Ninja governance dashboard" width="700" />
 </p>
 
 - **Python-based compliance engine** that auto-detects drift against policy  
@@ -147,7 +147,7 @@ I love:
 ### 4️⃣ Wild Rydes – Serverless Ride-Sharing App
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vishnukosuri12/vishnukosuri12/main/assets/wild-rydes-banner.png" alt="Wild Rydes unicorn rideshare banner" width="700" />
+  <img src="p4.png" alt="Wild Rydes unicorn rideshare banner" width="700" />
 </p>
 
 - **Unicorn-themed ride sharing** app built as a serverless reference architecture  
