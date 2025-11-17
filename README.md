@@ -159,6 +159,9 @@ I love:
 ---
 
 ### 5️⃣ ML Pipeline – Flight Delay / Anomaly Detection
+<p align="center">
+  <img src="p5.png" alt="Wild Rydes unicorn rideshare banner" width="700" />
+</p>
 
 - End-to-end **streaming + ML** stack with AWS  
 - Services: **S3, Glue, SageMaker, Kinesis, Step Functions**  
