@@ -1,7 +1,8 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=230&section=header&text=Vishnu%20Kosuri%20|%20Cloud%20%26%20DevOps%20Engineer&fontAlignY=40&animation=twinkling&fontColor=FFFFFF&desc=Kubernetes%20·%20Terraform%20·%20AWS%20·%20Azure%20·%20DevSecOps&descAlignY=65&descAlign=50" alt="Vishnu Kosuri header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=230&section=header&text=Vishnu%20Kosuri%20|%20Cloud%20%26%20DevOps%20Engineer&fontAlignY=40&animation=twinkling&fontColor=FFFFFF&desc=Kubernetes%20·%20Terraform%20·%20AWS%20·%20Azure%20%20·%20DevSecOps&descAlignY=65&descAlign=50" alt="Vishnu Kosuri header" />
 </p>
+
 
 <!-- Typing Animation -->
 <p align="center">
