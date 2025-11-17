@@ -166,7 +166,7 @@ I love:
 - End-to-end **streaming + ML** stack with AWS  
 - Services: **S3, Glue, SageMaker, Kinesis, Step Functions**  
 - Focus on **feature engineering, hyper-parameter tuning, and anomaly detection**  
-- Repo: 👉 [ML for Flight Delays](https://github.com/VishnuKosuri12/ML-for-Flight-Delays)
+- Repo: 👉 [ML for Flight Delays](https://ml-for-flight-delays-w9sc.vercel.app/)
 
 ---
 
