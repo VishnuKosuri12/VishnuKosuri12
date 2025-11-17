@@ -50,7 +50,7 @@ I love:
   <a href="mailto:srikosuri1212@gmail.com"><img src="https://img.shields.io/badge/Email-srikosuri1212%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/vishnukosuri"><img src="https://img.shields.io/badge/LinkedIn-Vishnu%20Kosuri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/vishnukosuri12"><img src="https://img.shields.io/badge/GitHub-vishnukosuri12-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1jA0iQCAo2bmlvEiFKH2tWJHvuT0XpYsx/view"><img src="https://img.shields.io/badge/Resume-View-22C55E?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <a href="Vishnu_Resume.pdf"><img src="https://img.shields.io/badge/Resume-View-22C55E?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </p>
 
 ---
