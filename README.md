@@ -40,7 +40,7 @@ I love:
 - Shipping **production-ready CI/CD** with **DevSecOps** baked in
 - Building **Kubernetes platforms** that are observable, cost-optimized, and boringly reliable  
 
-> _“If it’s done twice, it gets automated.”_  
+
 
 ---
 
