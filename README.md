@@ -102,9 +102,8 @@ I love:
 
 ---
 
-## 🧪 Featured Projects (with eye-candy)
+## 🧪 Featured Projects
 
-> 💡 _Tip: Add your screenshots (like `p1.png`, `p2.png`, etc.) in this repo’s `/assets` folder and adjust the paths below._
 
 ### 1️⃣ Production-Grade DevSecOps Pipeline
 
